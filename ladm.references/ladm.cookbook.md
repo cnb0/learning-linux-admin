@@ -62,7 +62,6 @@
             The UseDNS setting
             AllowUsers
             Rotating host keys and updating known_hosts
-            Technical requirements
             Using local forwarding
             On the command line
             Using an SSH config file
@@ -85,8 +84,7 @@
             Running multiple SSH servers on one box
   
 ### 3. Networking And Firewalls
-    
-            Technical requirements
+            
             Determining our network configuration
             Discerning the IP
             Discerning the IP (deprecated method)
@@ -121,8 +119,7 @@
             Debugging with iftop
 
 ### 4. Services And Daemons
-    
-            Technical requirements
+                   
             Determining running services
             Listing installed services
             Starting and stopping services
@@ -157,7 +154,6 @@
 
 ### 5. Hardware And Disks
     
-            Technical requirements
             Determining hardware
             lspci
             lshw
@@ -288,7 +284,6 @@
             chattr
             Avoiding octal notation (if you hate it) in chmod
             Hierarchical permissions
-            Technical requirements
             Users and groups
             whoami
             Users on a system
